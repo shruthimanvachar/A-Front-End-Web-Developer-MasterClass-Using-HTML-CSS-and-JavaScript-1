@@ -1,0 +1,1 @@
+Write the program based on the JavaScript functions, global and local variables in JavaScript using JavaScript Editors

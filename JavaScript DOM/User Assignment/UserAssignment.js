@@ -1,0 +1,1 @@
+Write the program to select the element by tag name, class and Id and by ID in JavaScript using JavaScript Editor and Write the program using the document query Selector in JavaScript using JavaScript Editor

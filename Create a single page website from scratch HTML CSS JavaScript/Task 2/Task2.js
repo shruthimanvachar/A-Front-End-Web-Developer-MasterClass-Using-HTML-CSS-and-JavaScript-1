@@ -1,0 +1,1 @@
+Setup nav structure and elements style navbar using CSS and Write the program to add placeholder content to sections in JavaScript using Editor.
